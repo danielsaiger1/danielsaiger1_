@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel
-- 👀 I’m interested in data analytics and data science!
-- 🌱 I’m currently learning R, Python and trying out some data science tasks
+- 👀 I’m interested in data engineering and data analytics!
+- 🌱 I’m currently learning Python, SQL, Azure and other Data Engineering Tools
 
 <!---
 danielsaiger1/danielsaiger1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
